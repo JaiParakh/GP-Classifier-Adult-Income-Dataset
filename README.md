@@ -72,3 +72,5 @@ the same.
 
 # Result
 Of all the numerous submissions received, mine ranked 4th in terms of accuracy!
+
+![leaderboard image](https://github.com/JaiParakh/GP-Classifier---Adult-Income-Dataset/blob/main/leaderboard.png)
